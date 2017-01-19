@@ -1,0 +1,17 @@
+{
+  "name": "array_flatten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "author": "bhargav ponnapalli",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
