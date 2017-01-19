@@ -1,17 +1,19 @@
 {
-  "name": "array_flatten",
+  "name": "just-array-flatten",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "ava --verbose"
+    "test": "ava --verbose",
+    "build": "babel src --out-dir lib"
   },
   "author": "bhargav ponnapalli",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.17.0"
+    "ava": "^0.17.0",
+    "babel-cli": "^6.18.0"
   }
 }
