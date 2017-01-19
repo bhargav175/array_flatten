@@ -1,9 +1,14 @@
-# array_flatten       
+# just-flatten-array       
 <p> <img src="https://travis-ci.org/bhargav175/array_flatten.svg?branch=master"
 
              alt="build status">
     </a></p>
 
+# Installation
+
+```bash
+npm install just-flatten-array
+```
 
 # Usage
 
