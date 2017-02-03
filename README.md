@@ -1,8 +1,8 @@
 # just-flatten-array       
 <p> <img src="https://travis-ci.org/bhargav175/array_flatten.svg?branch=master"
 
-             alt="build status">
-    </a></p>
+             alt="build status"/>
+ </p>
 
 # Installation
 
